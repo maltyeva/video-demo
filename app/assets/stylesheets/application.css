@@ -1,0 +1,18 @@
+.home_video {
+ width: 100vw;
+ height: 100vh;
+ position: absolute;
+ object-fit: cover;
+ top: 0;
+ z-index: -2;
+}
+
+
+.home-video-wrapper {
+height:100vh;
+display: flex;
+}
+
+h1.home {
+  color: white;
+}
